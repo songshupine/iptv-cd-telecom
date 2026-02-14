@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt   # 👈 关键：安装包括 pytz 在内的所有依赖
+          pip install -r script/requirements.txt   # 👈 关键：安装包括 pytz 在内的所有依赖
 
       - name: Run home.py
         run: python script/home.py
