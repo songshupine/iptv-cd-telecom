@@ -1,9 +1,9 @@
 
 export async function onRequest(context) {
     if (!context.params.domain){
-        return new Response(`udpxy参数错误，例：https://iptv.zsdc.eu.org/udpxy/192.168.100.1:4022`);
+        return new Response(`udpxy参数错误，例：https://iptv.gotonas.com/udpxy/192.168.100.1:4022`);
     }
-    const response = await fetch(`https://iptv.zsdc.eu.org/home/udpxy_iptv.m3u8`, {
+    const response = await fetch(`https://iptv.gotonas.com/home/udpxy_iptv.m3u8`, {
         method: 'GET',
     });
     let m3uText = await response.text();
