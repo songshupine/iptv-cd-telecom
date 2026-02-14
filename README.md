@@ -5,7 +5,7 @@
 
 > 📺 **IPTV 机顶盒替代方案** | 支持回看、时移 | 每周不定时更新  
 > 📅 **更新时间**：2026-02-14 20:27:12 | 共 **150** 条频道信息
-
+> 此项目在iptv.zsdc.eu.org基础上改进
 ---
 
 ## ✨ 核心特性
@@ -26,12 +26,12 @@
 
 **标准版（推荐）：**
 ```
-https://iptv.zsdc.eu.org/home/iptv.m3u8
+https://iptv.gotonas.com/home/iptv.m3u8
 ```
 
 **APTV 兼容版：**
 ```
-https://iptv.zsdc.eu.org/home/apt_iptv.m3u8
+https://iptv.gotonas.com/home/apt_iptv.m3u8
 ```
 
 > 💡 **提示**：两个版本都支持时移功能，APTV 版针对时区兼容性进行了优化
@@ -45,24 +45,24 @@ https://iptv.zsdc.eu.org/home/apt_iptv.m3u8
 #### 📌 地址格式
 
 ```
-https://iptv.zsdc.eu.org/udpxy/[ip:port]?[参数]
+https://iptv.gotonas.com/udpxy/[ip:port]?[参数]
 ```
 
 #### 🎯 使用示例
 
 **示例 1 - 基础用法：**
 ```
-https://iptv.zsdc.eu.org/udpxy/192.168.100.2:4022
+https://iptv.gotonas.com/udpxy/192.168.100.2:4022
 ```
 
 **示例 2 - APTV + FCC + RTSP 代理：**
 ```
-https://iptv.zsdc.eu.org/udpxy/192.168.100.2:4022?aptv=1&fcc=182.139.234.40:8027&rtspProxy=192.168.100.2:4022
+https://iptv.gotonas.com/udpxy/192.168.100.2:4022?aptv=1&fcc=182.139.234.40:8027&rtspProxy=192.168.100.2:4022
 ```
 
 **示例 3 - 回放转单播（RTSP → HTTP）：**
 ```
-https://iptv.zsdc.eu.org/udpxy/192.168.100.2:4022?fcc=182.139.234.40:8027&rtspProxy=192.168.100.2:4022
+https://iptv.gotonas.com/udpxy/192.168.100.2:4022?fcc=182.139.234.40:8027&rtspProxy=192.168.100.2:4022
 ```
 
 #### 📋 参数说明
@@ -72,6 +72,8 @@ https://iptv.zsdc.eu.org/udpxy/192.168.100.2:4022?fcc=182.139.234.40:8027&rtspPr
 | `aptv=1` | 启用 APTV 时区兼容 | `aptv=1` | APTV、mytv-android 等播放器 |
 | `fcc=host:port` | 启用 FCC 快速换台模式 | `fcc=182.139.234.40:8027` | 需要快速切换频道的场景            |
 | `rtspProxy=host:port` | RTSP 转 HTTP 播放 | `rtspProxy=192.168.100.2:4022` | 不支持 RTSP 协议的播放器/外网回看   |
+| `r2h-token=token` | r2h-token参数 | `r2h-token=mytoken` | 有r2h-token时使用   |
+
 
 > 📝 **说明**：
 > - 回看时间参数格式：`playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}`
@@ -109,7 +111,7 @@ https://epg.zsdc.eu.org/t.xml.gz
 
 遇到问题或有建议？欢迎通过以下方式反馈：
 
-- 📮 **提交 Issue**：[GitHub Issues](https://github.com/suzukua/iptv-cd-telecom/issues)
+- 📮 **提交 Issue**：[GitHub Issues](https://github.com/songshupine/iptv-cd-telecom/issues)
 - 💡 **功能建议**：欢迎在 Issues 中提出你的想法
 
 > 🙏 **提示**：提交问题时请详细描述你的使用场景和遇到的错误信息
