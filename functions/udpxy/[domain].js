@@ -57,6 +57,10 @@ export async function onRequest(context) {
         lines.forEach(function(line,index){
             if (line.indexOf("catchup-source=\"rtsp://") > 0) {
                 lines[index] = line.replaceAll("catchup-source=\"rtsp://", `catchup-source="${rtspProxy}/rtsp/`);
+                if (r2h) {
+                    lines[index] = line.replaceAll(/(playseek=[^"&]*)/g,
+        `$1&rh-token=${r2h}`)
+                }
             }
         })
         m3uText = lines.join("\n")
