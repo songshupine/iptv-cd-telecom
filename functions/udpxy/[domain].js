@@ -59,7 +59,7 @@ export async function onRequest(context) {
                 lines[index] = line.replaceAll("catchup-source=\"rtsp://", `catchup-source="${rtspProxy}/rtsp/`);
                 if (r2h) {
                     lines[index] = line.replaceAll(/(playseek=[^"&]*)/g,
-        `$1&rh-token=${r2h}`)
+                        `$1&r2h-token=${r2h}`)
                 }
             }
         })
