@@ -1,0 +1,33 @@
+# .github/workflows/update-iptv.yml
+name: Update IPTV List
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天 UTC 时间 2 点运行
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # 必须带 token 才能 push
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4  # 按需安装
+
+      - name: Run home.py
+        run: python script/home.py  # 确保它会生成 channels/cd.m3u 等文件
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git diff-index --quiet HEAD || (git commit -m "Auto-update IPTV list" && git push)
