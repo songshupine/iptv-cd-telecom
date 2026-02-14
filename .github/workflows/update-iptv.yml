@@ -28,6 +28,11 @@ jobs:
 
       - name: Run home.py
         run: python script/home.py
+      - name: Update README update time
+        run: |
+          export TZ='Asia/Shanghai'
+          CURRENT_TIME=$(date +'%Y-%m-%d %H:%M')
+          sed -i "s/$\*\*更新时间\*\*：$[0-9\-]\{10\} [0-9:]\{5\}/\1${CURRENT_TIME}/" README.md
 
       - name: Commit and push changes (if any)
         run: |
