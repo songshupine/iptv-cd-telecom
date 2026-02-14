@@ -31,6 +31,23 @@ export async function onRequest(context) {
         m3uText = lines.join("\n")
     }
 
+    const r2h = url.searchParams.get("r2h-token")
+    if (r2h) {
+        let lines = m3uText.split("\n")
+        lines.forEach(function(line,index){
+            if (line.indexOf("/udp/") > 0) {
+                let url = new URL(line)
+                if (url.searchParams.size > 0){
+                    line += `&r2h-token=${r2h}`
+                } else {
+                    line += `?r2h-token=${r2h}`
+                }
+                lines[index] = line;
+            }
+        })
+        m3uText = lines.join("\n")
+    }
+
     let rtspProxy = url.searchParams.get("rtspProxy")
     if (rtspProxy) {
         if (!rtspProxy.startsWith("http")) {
