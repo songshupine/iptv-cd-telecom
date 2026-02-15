@@ -237,7 +237,7 @@ if data.get("success"):
         group = filterCategory(name)
         icon = ''
         if os.path.exists(f'./logo/{name}.png'):
-            icon = f'https://iptv.zsdc.eu.org/logo/{name}.png'
+            icon = f'https://iptv.gotonas.com/logo/{name}.png'
 
         # 判断name是否在iptvList中
         if not checkChannelExist(iptvList, name):
