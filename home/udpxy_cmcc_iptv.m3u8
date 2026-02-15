@@ -1,0 +1,339 @@
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://iptv.gotonas.com/logo/CCTV1.png" group-title="未分组",CCTV1
+http://192.168.100.1:4022/udp/239.10.0.151:5140
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://iptv.gotonas.com/logo/CCTV1.png" group-title="未分组",CCTV1
+http://192.168.100.1:4022/udp/239.11.0.65:5140
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://iptv.gotonas.com/logo/CCTV2.png" group-title="未分组",CCTV2
+http://192.168.100.1:4022/udp/239.11.0.108:5140
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://iptv.gotonas.com/logo/CCTV3.png" group-title="未分组",CCTV3
+http://192.168.100.1:4022/udp/239.11.0.101:5140
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://iptv.gotonas.com/logo/CCTV4.png" group-title="未分组",CCTV4
+http://192.168.100.1:4022/udp/239.11.0.109:5140
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://iptv.gotonas.com/logo/CCTV5.png" group-title="未分组",CCTV5
+http://192.168.100.1:4022/udp/239.11.0.100:5140
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://iptv.gotonas.com/logo/CCTV5.png" group-title="未分组",CCTV5+
+http://192.168.100.1:4022/udp/239.11.0.241:5140
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://iptv.gotonas.com/logo/CCTV6.png" group-title="未分组",CCTV6
+http://192.168.100.1:4022/udp/239.11.0.102:5140
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://iptv.gotonas.com/logo/CCTV7.png" group-title="未分组",CCTV7
+http://192.168.100.1:4022/udp/239.11.0.110:5140
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://iptv.gotonas.com/logo/CCTV8.png" group-title="未分组",CCTV8
+http://192.168.100.1:4022/udp/239.11.0.103:5140
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://iptv.gotonas.com/logo/CCTV9.png" group-title="未分组",CCTV9
+http://192.168.100.1:4022/udp/239.11.0.111:5140
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://iptv.gotonas.com/logo/CCTV10.png" group-title="未分组",CCTV10
+http://192.168.100.1:4022/udp/239.11.0.112:5140
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://iptv.gotonas.com/logo/CCTV11.png" group-title="未分组",CCTV11
+http://192.168.100.1:4022/udp/239.11.0.22:5140
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://iptv.gotonas.com/logo/CCTV12.png" group-title="未分组",CCTV12
+http://192.168.100.1:4022/udp/239.11.0.113:5140
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://iptv.gotonas.com/logo/CCTV13.png" group-title="未分组",CCTV13
+http://192.168.100.1:4022/udp/239.11.0.24:5140
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://iptv.gotonas.com/logo/CCTV14.png" group-title="未分组",CCTV14
+http://192.168.100.1:4022/udp/239.11.0.114:5140
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://iptv.gotonas.com/logo/CCTV15.png" group-title="未分组",CCTV15
+http://192.168.100.1:4022/udp/239.11.0.26:5140
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://iptv.gotonas.com/logo/CCTV16.png" group-title="未分组",CCTV16
+http://192.168.100.1:4022/udp/239.11.0.67:5140
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://iptv.gotonas.com/logo/CCTV17.png" group-title="未分组",CCTV17
+http://192.168.100.1:4022/udp/239.11.0.107:5140
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://iptv.gotonas.com/logo/CETV1.png" group-title="未分组",CETV1
+http://192.168.100.1:4022/udp/239.11.0.139:5140
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://iptv.gotonas.com/logo/CETV2.png" group-title="未分组",CETV2
+http://192.168.100.1:4022/udp/239.11.0.246:5140
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",中学生
+http://192.168.100.1:4022/udp/239.11.0.247:5140
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://iptv.gotonas.com/logo/CETV4.png" group-title="未分组",CETV4
+http://192.168.100.1:4022/udp/239.11.0.248:5140
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://iptv.gotonas.com/logo/CGTN.png" group-title="未分组",CGTN西语
+http://192.168.100.1:4022/udp/239.11.0.79:5140
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://iptv.gotonas.com/logo/CGTN.png" group-title="未分组",CGTN法语
+http://192.168.100.1:4022/udp/239.11.0.80:5140
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://iptv.gotonas.com/logo/CGTN.png" group-title="未分组",CGTN阿语
+http://192.168.100.1:4022/udp/239.11.0.81:5140
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://iptv.gotonas.com/logo/CGTN.png" group-title="未分组",CGTN俄语
+http://192.168.100.1:4022/udp/239.11.0.82:5140
+#EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://iptv.gotonas.com/logo/CGTN.png" group-title="未分组",CGTN记录
+http://192.168.100.1:4022/udp/239.11.0.138:5140
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://iptv.gotonas.com/logo/CGTN.png" group-title="未分组",CGTN英语
+http://192.168.100.1:4022/udp/239.11.0.245:5140
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://iptv.gotonas.com/logo/CCTV4K.png" group-title="未分组",CCTV4K
+http://192.168.100.1:4022/udp/239.11.0.62:5140
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://iptv.gotonas.com/logo/CCTV4K.png" group-title="未分组",CCTV4K
+http://192.168.100.1:4022/udp/239.11.0.61:5140
+#EXTINF:-1 tvg-name="CCTV16-4K" tvg-logo="https://iptv.gotonas.com/logo/CCTV164K.png" group-title="未分组",CCTV16-4K
+http://192.168.100.1:4022/udp/239.10.0.187:5140
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://iptv.gotonas.com/logo/CCTV8K.png" group-title="未分组",CCTV8K
+http://192.168.100.1:4022/udp/239.10.0.134:5140
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",北京卫视4K
+http://192.168.100.1:4022/udp/239.10.0.91:5140
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",北京卫视4K
+http://192.168.100.1:4022/udp/239.10.0.92:5140
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",深圳卫视4K
+http://192.168.100.1:4022/udp/239.10.0.93:5140
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",广东卫视4K
+http://192.168.100.1:4022/udp/239.10.0.94:5140
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",四川卫视4K
+http://192.168.100.1:4022/udp/239.11.0.43:5140
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",四川卫视4K
+http://192.168.100.1:4022/udp/239.11.0.86:5140
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",东方卫视4K
+http://192.168.100.1:4022/udp/239.11.0.90:5140
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",浙江卫视4K
+http://192.168.100.1:4022/udp/239.11.0.89:5140
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",江苏卫视4K
+http://192.168.100.1:4022/udp/239.11.0.88:5140
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",湖南卫视4K
+http://192.168.100.1:4022/udp/239.11.0.87:5140
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",山东卫视4K
+http://192.168.100.1:4022/udp/239.11.0.91:5140
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",四川卫视4K
+http://192.168.100.1:4022/udp/239.11.0.86:5140
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",爱上4K
+http://192.168.100.1:4022/udp/239.11.0.120:5140
+#EXTINF:-1 tvg-name="咪咕4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="未分组",咪咕4K
+http://192.168.100.1:4022/udp/239.10.0.240:5140
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",北京卫视
+http://192.168.100.1:4022/udp/239.11.0.121:5140
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",河北卫视
+http://192.168.100.1:4022/udp/239.11.0.31:5140
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",东方卫视
+http://192.168.100.1:4022/udp/239.11.0.68:5140
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",湖南卫视
+http://192.168.100.1:4022/udp/239.11.0.119:5140
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",黑龙江卫视
+http://192.168.100.1:4022/udp/239.11.0.36:5140
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",吉林卫视
+http://192.168.100.1:4022/udp/239.11.0.35:5140
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",江西卫视
+http://192.168.100.1:4022/udp/239.11.0.42:5140
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",东南卫视
+http://192.168.100.1:4022/udp/239.11.0.41:5140
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",河南卫视
+http://192.168.100.1:4022/udp/239.11.0.44:5140
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",浙江卫视
+http://192.168.100.1:4022/udp/239.11.0.70:5140
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",深圳卫视
+http://192.168.100.1:4022/udp/239.11.0.71:5140
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",山东卫视
+http://192.168.100.1:4022/udp/239.11.0.73:5140
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",湖北卫视
+http://192.168.100.1:4022/udp/239.11.0.74:5140
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",江苏卫视
+http://192.168.100.1:4022/udp/239.11.0.76:5140
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",四川卫视
+http://192.168.100.1:4022/udp/239.11.0.78:5140
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",广东卫视
+http://192.168.100.1:4022/udp/239.11.0.115:5140
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",广西卫视
+http://192.168.100.1:4022/udp/239.11.0.48:5140
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",贵州卫视
+http://192.168.100.1:4022/udp/239.11.0.51:5140
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",甘肃卫视
+http://192.168.100.1:4022/udp/239.11.0.55:5140
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",重庆卫视
+http://192.168.100.1:4022/udp/239.11.0.116:5140
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",安徽卫视
+http://192.168.100.1:4022/udp/239.11.0.117:5140
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",辽宁卫视
+http://192.168.100.1:4022/udp/239.11.0.118:5140
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",天津卫视
+http://192.168.100.1:4022/udp/239.11.0.123:5140
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",山西卫视
+http://192.168.100.1:4022/udp/239.11.0.32:5140
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",云南卫视
+http://192.168.100.1:4022/udp/239.11.0.52:5140
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",西藏卫视
+http://192.168.100.1:4022/udp/239.11.0.53:5140
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",陕西卫视
+http://192.168.100.1:4022/udp/239.11.0.54:5140
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",青海卫视
+http://192.168.100.1:4022/udp/239.11.0.56:5140
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",宁夏卫视
+http://192.168.100.1:4022/udp/239.11.0.57:5140
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",新疆卫视
+http://192.168.100.1:4022/udp/239.11.0.58:5140
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",内蒙古卫视
+http://192.168.100.1:4022/udp/239.11.0.33:5140
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",兵团卫视
+http://192.168.100.1:4022/udp/239.11.0.204:5140
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",延边卫视
+http://192.168.100.1:4022/udp/239.11.0.206:5140
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",海南卫视
+http://192.168.100.1:4022/udp/239.11.0.193:5140
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",安多卫视
+http://192.168.100.1:4022/udp/239.11.0.124:5140
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",山东教育
+http://192.168.100.1:4022/udp/239.11.0.140:5140
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",厦门卫视
+http://192.168.100.1:4022/udp/239.11.0.83:5140
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",三沙卫视
+http://192.168.100.1:4022/udp/239.11.0.84:5140
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://iptv.gotonas.com/logo/CHC.png" group-title="未分组",CHC家庭影院
+http://192.168.100.1:4022/udp/239.10.0.86:5140
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://iptv.gotonas.com/logo/CHC.png" group-title="未分组",CHC动作电影
+http://192.168.100.1:4022/udp/239.10.0.87:5140
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://iptv.gotonas.com/logo/CHC.png" group-title="未分组",CHC影迷电影
+http://192.168.100.1:4022/udp/239.10.0.88:5140
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",哈哈炫动
+http://192.168.100.1:4022/udp/239.11.0.64:5140
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",金鹰卡通
+http://192.168.100.1:4022/udp/239.11.0.127:5140
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",卡酷少儿
+http://192.168.100.1:4022/udp/239.11.0.129:5140
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",嘉佳卡通
+http://192.168.100.1:4022/udp/239.11.0.203:5140
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",优漫卡通
+http://192.168.100.1:4022/udp/239.11.0.63:5140
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",动漫秀场
+http://192.168.100.1:4022/udp/239.10.0.101:5140
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",生活时尚
+http://192.168.100.1:4022/udp/239.10.0.102:5140
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",游戏风云
+http://192.168.100.1:4022/udp/239.10.0.103:5140
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",乐游
+http://192.168.100.1:4022/udp/239.10.0.105:5140
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",金鹰纪实
+http://192.168.100.1:4022/udp/239.10.0.193:5140
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",先锋乒羽
+http://192.168.100.1:4022/udp/239.10.0.90:5140
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",中国交通
+http://192.168.100.1:4022/udp/239.10.0.143:5140
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",财富天下
+http://192.168.100.1:4022/udp/239.10.0.182:5140
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",家庭理财
+http://192.168.100.1:4022/udp/239.10.0.168:5140
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",新动漫
+http://192.168.100.1:4022/udp/239.10.0.159:5140
+#EXTINF:-1 tvg-name="求索记录" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",求索记录
+http://192.168.100.1:4022/udp/239.10.0.221:5140
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",睛彩青少
+http://192.168.100.1:4022/udp/239.10.0.130:5140
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",睛彩广场舞
+http://192.168.100.1:4022/udp/239.10.0.131:5140
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",睛彩竞技
+http://192.168.100.1:4022/udp/239.10.0.224:5140
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",睛彩篮球
+http://192.168.100.1:4022/udp/239.11.0.122:5140
+#EXTINF:-1 tvg-name="四川文化" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",四川文化
+http://192.168.100.1:4022/udp/239.11.0.3:5140
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",四川乡村
+http://192.168.100.1:4022/udp/239.11.0.4:5140
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",四川经济
+http://192.168.100.1:4022/udp/239.11.0.2:5140
+#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",四川新闻
+http://192.168.100.1:4022/udp/239.11.0.5:5140
+#EXTINF:-1 tvg-name="四川影视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",四川影视
+http://192.168.100.1:4022/udp/239.11.0.77:5140
+#EXTINF:-1 tvg-name="四川妇女" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",四川妇女
+http://192.168.100.1:4022/udp/239.11.0.8:5140
+#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",四川科教
+http://192.168.100.1:4022/udp/239.11.0.194:5140
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",康巴卫视
+http://192.168.100.1:4022/udp/239.11.0.10:5140
+#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",峨眉电影
+http://192.168.100.1:4022/udp/239.11.0.11:5140
+#EXTINF:-1 tvg-name="达州新闻" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",达州新闻
+http://192.168.100.1:4022/udp/239.10.0.54:5140
+#EXTINF:-1 tvg-name="达州文化生活" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",达州文化生活
+http://192.168.100.1:4022/udp/239.10.0.55:5140
+#EXTINF:-1 tvg-name="成都综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",成都综合
+http://192.168.100.1:4022/udp/239.10.0.11:5140
+#EXTINF:-1 tvg-name="成都经济" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",成都经济
+http://192.168.100.1:4022/udp/239.10.0.12:5140
+#EXTINF:-1 tvg-name="成都生活" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",成都生活
+http://192.168.100.1:4022/udp/239.10.0.13:5140
+#EXTINF:-1 tvg-name="成都影视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",成都影视
+http://192.168.100.1:4022/udp/239.10.0.14:5140
+#EXTINF:-1 tvg-name="成都公共" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",成都公共
+http://192.168.100.1:4022/udp/239.10.0.15:5140
+#EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",成都少儿
+http://192.168.100.1:4022/udp/239.10.0.16:5140
+#EXTINF:-1 tvg-name="成都购物" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",成都购物
+http://192.168.100.1:4022/udp/239.10.0.33:5140
+#EXTINF:-1 tvg-name="泸州新闻" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",泸州新闻
+http://192.168.100.1:4022/udp/239.10.0.46:5140
+#EXTINF:-1 tvg-name="泸州科教" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",泸州科教
+http://192.168.100.1:4022/udp/239.10.0.48:5140
+#EXTINF:-1 tvg-name="阿坝汉语" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",阿坝汉语
+http://192.168.100.1:4022/udp/239.10.0.50:5140
+#EXTINF:-1 tvg-name="阿坝藏语" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",阿坝藏语
+http://192.168.100.1:4022/udp/239.10.0.51:5140
+#EXTINF:-1 tvg-name="巴中综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",巴中综合
+http://192.168.100.1:4022/udp/239.10.0.52:5140
+#EXTINF:-1 tvg-name="巴中文旅" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",巴中文旅
+http://192.168.100.1:4022/udp/239.10.0.53:5140
+#EXTINF:-1 tvg-name="德阳新闻综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",德阳新闻综合
+http://192.168.100.1:4022/udp/239.10.0.56:5140
+#EXTINF:-1 tvg-name="德阳文旅科教" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",德阳文旅科教
+http://192.168.100.1:4022/udp/239.10.0.57:5140
+#EXTINF:-1 tvg-name="广安新闻" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",广安新闻
+http://192.168.100.1:4022/udp/239.10.0.58:5140
+#EXTINF:-1 tvg-name="广安公共" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",广安公共
+http://192.168.100.1:4022/udp/239.10.0.59:5140
+#EXTINF:-1 tvg-name="广元综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",广元综合
+http://192.168.100.1:4022/udp/239.10.0.60:5140
+#EXTINF:-1 tvg-name="广元文化" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",广元文化
+http://192.168.100.1:4022/udp/239.10.0.61:5140
+#EXTINF:-1 tvg-name="乐山新闻" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",乐山新闻
+http://192.168.100.1:4022/udp/239.10.0.62:5140
+#EXTINF:-1 tvg-name="乐山文旅" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",乐山文旅
+http://192.168.100.1:4022/udp/239.10.0.63:5140
+#EXTINF:-1 tvg-name="凉山新闻综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",凉山新闻综合
+http://192.168.100.1:4022/udp/239.10.0.64:5140
+#EXTINF:-1 tvg-name="凉山彝语综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",凉山彝语综合
+http://192.168.100.1:4022/udp/239.10.0.65:5140
+#EXTINF:-1 tvg-name="眉山综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",眉山综合
+http://192.168.100.1:4022/udp/239.10.0.66:5140
+#EXTINF:-1 tvg-name="眉山公共" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",眉山公共
+http://192.168.100.1:4022/udp/239.10.0.67:5140
+#EXTINF:-1 tvg-name="南充综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",南充综合
+http://192.168.100.1:4022/udp/239.10.0.68:5140
+#EXTINF:-1 tvg-name="南充科教" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",南充科教
+http://192.168.100.1:4022/udp/239.10.0.70:5140
+#EXTINF:-1 tvg-name="内江综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",内江综合
+http://192.168.100.1:4022/udp/239.10.0.71:5140
+#EXTINF:-1 tvg-name="内江科教" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",内江科教
+http://192.168.100.1:4022/udp/239.10.0.73:5140
+#EXTINF:-1 tvg-name="攀枝花新闻" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",攀枝花新闻
+http://192.168.100.1:4022/udp/239.10.0.74:5140
+#EXTINF:-1 tvg-name="攀枝花文旅" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",攀枝花文旅
+http://192.168.100.1:4022/udp/239.10.0.75:5140
+#EXTINF:-1 tvg-name="遂宁综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",遂宁综合
+http://192.168.100.1:4022/udp/239.10.0.76:5140
+#EXTINF:-1 tvg-name="遂宁文旅" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",遂宁文旅
+http://192.168.100.1:4022/udp/239.10.0.77:5140
+#EXTINF:-1 tvg-name="雅安新闻" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",雅安新闻
+http://192.168.100.1:4022/udp/239.10.0.78:5140
+#EXTINF:-1 tvg-name="雅安公共" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",雅安公共
+http://192.168.100.1:4022/udp/239.10.0.79:5140
+#EXTINF:-1 tvg-name="宜宾新闻" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",宜宾新闻
+http://192.168.100.1:4022/udp/239.10.0.80:5140
+#EXTINF:-1 tvg-name="宜宾公共" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",宜宾公共
+http://192.168.100.1:4022/udp/239.10.0.81:5140
+#EXTINF:-1 tvg-name="资阳新闻" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",资阳新闻
+http://192.168.100.1:4022/udp/239.10.0.82:5140
+#EXTINF:-1 tvg-name="自贡综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",自贡综合
+http://192.168.100.1:4022/udp/239.10.0.83:5140
+#EXTINF:-1 tvg-name="自贡文化" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",自贡文化
+http://192.168.100.1:4022/udp/239.10.0.84:5140
+#EXTINF:-1 tvg-name="绵阳新闻" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",绵阳新闻
+http://192.168.100.1:4022/udp/239.10.0.96:5140
+#EXTINF:-1 tvg-name="绵阳科技" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",绵阳科技
+http://192.168.100.1:4022/udp/239.10.0.98:5140
+#EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",四川星空购物
+http://192.168.100.1:4022/udp/239.11.0.125:5140
+#EXTINF:-1 tvg-name="康定综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",康定综合
+http://192.168.100.1:4022/udp/239.10.0.30:5140
+#EXTINF:-1 tvg-name="甘孜综合" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",甘孜综合
+http://192.168.100.1:4022/udp/239.10.0.32:5140
+#EXTINF:-1 tvg-name="稻城电视台" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",稻城电视台
+http://192.168.100.1:4022/udp/239.10.0.29:5140
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",凤凰中文
+http://192.168.100.1:4022/udp/239.11.0.153:5140
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",凤凰资讯
+http://192.168.100.1:4022/udp/239.11.0.154:5140
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="未分组",星空卫视
+http://192.168.100.1:4022/udp/239.11.0.156:5140
+#EXTINF:-1 tvg-name="Channel[V]" tvg-logo="https://iptv.gotonas.com/logo/ChannelV.png" group-title="未分组",Channel[V]
+http://192.168.100.1:4022/udp/239.11.0.155:5140
