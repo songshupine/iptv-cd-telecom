@@ -1,4 +1,4 @@
-# 🎬 成都/四川电信 IPTV 直播源
+# 🎬 成都/四川电信 移动 IPTV 直播源
 
 ![badge](https://github.com/suzukua/iptv-cd-telecom/actions/workflows/cloudflare-pages.yml/badge.svg)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -20,16 +20,16 @@
 
 ## 📖 使用指南
 
-### 🚀 方式一：官方单播源（推荐新手）
+### 🚀 方式一：官方单播源（移动暂不支持）
 
 直接复制以下地址到播放器即可使用，无需额外配置：
 
-**标准版（推荐）：**
+**电信标准版：**
 ```
 https://iptv.gotonas.com/home/iptv.m3u8
 ```
 
-**APTV 兼容版：**
+**电信APTV 兼容版：**
 ```
 https://iptv.gotonas.com/home/apt_iptv.m3u8
 ```
@@ -42,15 +42,21 @@ https://iptv.gotonas.com/home/apt_iptv.m3u8
 
 适用于已搭建 udpxy、msd_lite、rtp2httpd 等工具的用户。
 
-#### 📌 地址格式
+#### 📌 电信地址格式
 
 ```
 https://iptv.gotonas.com/udpxy/[ip:port]?[参数]
 ```
 
+#### 📌 移动地址格式
+
+```
+https://iptv.gotonas.com/udpxy_cmcc/[ip:port]?[参数]
+```
+
 #### 🎯 使用示例
 
-**示例 1 - 基础用法：**
+**示例 1 - 基础用法（举例为电信，移动请自行用udpxy_cmcc替换udpxy下面的举例类似）：**
 ```
 https://iptv.gotonas.com/udpxy/192.168.100.2:4022
 ```
