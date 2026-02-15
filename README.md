@@ -1,13 +1,13 @@
 # 🎬 成都/四川电信 移动 IPTV 直播源
 
-![badge](https://github.com/suzukua/iptv-cd-telecom/actions/workflows/cloudflare-pages.yml/badge.svg)
+![badge](https://github.com/songshupine/iptv-cd-telecom/actions/workflows/cloudflare-pages.yml/badge.svg)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > 📺 **IPTV 机顶盒替代方案** | 支持回看、时移 | 每周不定时更新  
 > 📅 **更新时间**：2026-02-15 12:21:12 | 共 **150** 条频道信息
-- 此项目基于iptv.zsdc.eu.org上开发
 ---
-
+> 此项目基于iptv.zsdc.eu.org (https://github.com/suzukua/iptv-cd-telecom) 项目开发
+---
 ## ✨ 核心特性
 
 - 🎬 **广泛兼容**：支持 tvbox、KODI、fileball、APTV、mytv-android 等主流播放器
