@@ -183,6 +183,35 @@ def checkChannelExist(iptvList, channel):
             print(f"频道 {channel} 已存在，跳过")
             return True
     return False
+
+def append_telecom_add_to_m3u8(udpxy_m3u8_file):
+    """
+    将 home/telecom_add.m3u8 的内容追加到指定的 M3U8 文件末尾。
+    
+    :param udpxy_m3u8_file: generateUdpxyM3U8 生成的目标文件路径（如 'telecom.m3u8'）
+    """
+    add_file = "./home/telecom_add.m3u8"
+    
+    try:
+        with open(add_file, "r", encoding="utf-8") as f_add:
+            extra_content = f_add.read()
+        
+        if not extra_content.strip():
+            print(f"⚠️  {add_file} 为空，跳过追加。")
+            return
+
+        with open(udpxy_m3u8_file, "a", encoding="utf-8") as f_out:
+            # 确保主文件末尾有换行，避免合并行
+            f_out.write("\n")
+            f_out.write(extra_content.rstrip("\n") + "\n")  # 避免多余空行，但保留最后一行换行
+        
+        print(f"✅ 已成功将 {add_file} 内容追加到 {udpxy_m3u8_file}")
+    
+    except FileNotFoundError as e:
+        print(f"❌ 文件未找到: {e}")
+    except Exception as e:
+        print(f"⚠️ 追加过程中出错: {e}")
+
 def generateHome():
     m3u8_file = './home/iptv.m3u8'
     # epg_m3u8_file = './home/iptv_epg.m3u8'
@@ -198,6 +227,7 @@ def generateHome():
 
     udpxy_m3u8_file = './home/udpxy_iptv.m3u8'
     generateUdpxyM3U8(udpxy_m3u8_file)
+    append_telecom_add_to_m3u8(udpxy_m3u8_file)
     print("生成udpxy_m3u8完成")
 
     # upload_convert_egp(m3u8_file, epg_m3u8_file)
