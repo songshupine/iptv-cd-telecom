@@ -449,3 +449,11 @@ http://192.168.100.1:4022/udp/239.94.2.20:5140
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTINF:-1 tvg-logo="" tvg-id="华西证券" tvg-name="华西证券" group-title="其他",华西证券
 http://192.168.100.1:4022/udp/239.94.2.42:5140
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="港澳",凤凰中文
+http://192.168.100.1:4022/udp/239.94.2.52:5140
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="港澳",凤凰资讯
+http://192.168.100.1:4022/udp/239.94.2.49:5140
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://iptv.gotonas.com/logo/.png" group-title="港澳",星空卫视
+http://192.168.100.1:4022/udp/239.94.2.55:5140
+#EXTINF:-1 tvg-name="Channel[V]" tvg-logo="https://iptv.gotonas.com/logo/ChannelV.png" group-title="港澳",Channel[V]
+http://192.168.100.1:4022/udp/239.94.2.53:5140
