@@ -1,0 +1,169 @@
+#EXTM3U name="成都联通IPTV - 2026-02-16 13:42:05" x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
+
+#EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" group-title="央视频道",CCTV-1高清
+
+http://192.168.100.1:4022/udp/239.0.0.10:5140
+
+#EXTINF:-1 tvg-id="CCTV-2高清" tvg-name="CCTV-2高清" group-title="央视频道",CCTV-2高清
+
+http://192.168.100.1:4022/udp/239.0.0.11:5140
+
+#EXTINF:-1 tvg-id="CCTV-3高清" tvg-name="CCTV-3高清" group-title="央视频道",CCTV-3高清
+
+http://192.168.100.1:4022/udp/239.0.0.12:5140
+
+#EXTINF:-1 tvg-id="CCTV-4高清" tvg-name="CCTV-4高清" group-title="央视频道",CCTV-4高清
+
+http://192.168.100.1:4022/udp/239.0.0.13:5140
+
+#EXTINF:-1 tvg-id="CCTV-5高清" tvg-name="CCTV-5高清" group-title="央视频道",CCTV-5高清
+
+http://192.168.100.1:4022/udp/239.0.0.14:5140
+
+#EXTINF:-1 tvg-id="CCTV-6高清" tvg-name="CCTV-6高清" group-title="央视频道",CCTV-6高清
+
+http://192.168.100.1:4022/udp/239.0.0.15:5140
+
+#EXTINF:-1 tvg-id="CCTV-7高清" tvg-name="CCTV-7高清" group-title="央视频道",CCTV-7高清
+
+http://192.168.100.1:4022/udp/239.0.0.16:5140
+
+#EXTINF:-1 tvg-id="CCTV-8高清" tvg-name="CCTV-8高清" group-title="央视频道",CCTV-8高清
+
+http://192.168.100.1:4022/udp/239.0.0.17:5140
+
+#EXTINF:-1 tvg-id="CCTV-9高清" tvg-name="CCTV-9高清" group-title="央视频道",CCTV-9高清
+
+http://192.168.100.1:4022/udp/239.0.0.18:5140
+
+#EXTINF:-1 tvg-id="CCTV-10高清" tvg-name="CCTV-10高清" group-title="央视频道",CCTV-10高清
+
+http://192.168.100.1:4022/udp/239.0.0.19:5140
+
+#EXTINF:-1 tvg-id="CCTV-11高清" tvg-name="CCTV-11高清" group-title="央视频道",CCTV-11高清
+
+http://192.168.100.1:4022/udp/239.0.0.187:5140
+
+#EXTINF:-1 tvg-id="CCTV-12高清" tvg-name="CCTV-12高清" group-title="央视频道",CCTV-12高清
+
+http://192.168.100.1:4022/udp/239.0.0.20:5140
+
+#EXTINF:-1 tvg-id="CCTV-13高清" tvg-name="CCTV-13高清" group-title="央视频道",CCTV-13高清
+
+http://192.168.100.1:4022/udp/239.0.0.190:5140
+
+#EXTINF:-1 tvg-id="CCTV-14高清" tvg-name="CCTV-14高清" group-title="央视频道",CCTV-14高清
+
+http://192.168.100.1:4022/udp/239.0.0.21:5140
+
+#EXTINF:-1 tvg-id="CCTV-15高清" tvg-name="CCTV-15高清" group-title="央视频道",CCTV-15高清
+
+http://192.168.100.1:4022/udp/239.0.0.188:5140
+
+#EXTINF:-1 tvg-id="CCTV-17高清" tvg-name="CCTV-17高清" group-title="央视频道",CCTV-17高清
+
+http://192.168.100.1:4022/udp/239.0.0.152:5140
+
+#EXTINF:-1 tvg-id="CCTV-5+高清" tvg-name="CCTV-5+高清" group-title="央视频道",CCTV-5+高清
+
+http://192.168.100.1:4022/udp/239.0.0.22:5140
+
+#EXTINF:-1 tvg-id="四川卫视高清" tvg-name="四川卫视高清" group-title="卫视频道",四川卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.1:5140
+
+#EXTINF:-1 tvg-id="湖南卫视高清" tvg-name="湖南卫视高清" group-title="卫视频道",湖南卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.68:5140
+
+#EXTINF:-1 tvg-id="浙江卫视高清" tvg-name="浙江卫视高清" group-title="卫视频道",浙江卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.61:5140
+
+#EXTINF:-1 tvg-id="江苏卫视高清" tvg-name="江苏卫视高清" group-title="卫视频道",江苏卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.60:5140
+
+#EXTINF:-1 tvg-id="东方卫视高清" tvg-name="东方卫视高清" group-title="卫视频道",东方卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.58:5140
+
+#EXTINF:-1 tvg-id="北京卫视高清" tvg-name="北京卫视高清" group-title="卫视频道",北京卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.52:5140
+
+#EXTINF:-1 tvg-id="辽宁卫视高清" tvg-name="辽宁卫视高清" group-title="卫视频道",辽宁卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.56:5140
+
+#EXTINF:-1 tvg-id="深圳卫视高清" tvg-name="深圳卫视高清" group-title="卫视频道",深圳卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.71:5140
+
+#EXTINF:-1 tvg-id="天津卫视高清" tvg-name="天津卫视高清" group-title="卫视频道",天津卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.54:5140
+
+#EXTINF:-1 tvg-id="山东卫视高清" tvg-name="山东卫视高清" group-title="卫视频道",山东卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.66:5140
+
+#EXTINF:-1 tvg-id="广东卫视高清" tvg-name="广东卫视高清" group-title="卫视频道",广东卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.70:5140
+
+#EXTINF:-1 tvg-id="湖北卫视高清" tvg-name="湖北卫视高清" group-title="卫视频道",湖北卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.67:5140
+
+#EXTINF:-1 tvg-id="黑龙江卫视高清" tvg-name="黑龙江卫视高清" group-title="卫视频道",黑龙江卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.57:5140
+
+#EXTINF:-1 tvg-id="安徽卫视高清" tvg-name="安徽卫视高清" group-title="卫视频道",安徽卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.65:5140
+
+#EXTINF:-1 tvg-id="重庆卫视高清" tvg-name="重庆卫视高清" group-title="卫视频道",重庆卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.72:5140
+
+#EXTINF:-1 tvg-id="贵州卫视高清" tvg-name="贵州卫视高清" group-title="卫视频道",贵州卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.64:5140
+
+#EXTINF:-1 tvg-id="江西卫视高清" tvg-name="江西卫视高清" group-title="卫视频道",江西卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.63:5140
+
+#EXTINF:-1 tvg-id="河北卫视高清" tvg-name="河北卫视高清" group-title="卫视频道",河北卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.55:5140
+
+#EXTINF:-1 tvg-id="东南卫视高清" tvg-name="东南卫视高清" group-title="卫视频道",东南卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.62:5140
+
+#EXTINF:-1 tvg-id="河南卫视高清" tvg-name="河南卫视高清" group-title="卫视频道",河南卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.182:5140
+
+#EXTINF:-1 tvg-id="广西卫视高清" tvg-name="广西卫视高清" group-title="卫视频道",广西卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.185:5140
+
+#EXTINF:-1 tvg-id="吉林卫视高清" tvg-name="吉林卫视高清" group-title="卫视频道",吉林卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.191:5140
+
+#EXTINF:-1 tvg-id="甘肃卫视高清" tvg-name="甘肃卫视高清" group-title="卫视频道",甘肃卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.192:5140
+
+#EXTINF:-1 tvg-id="云南卫视高清" tvg-name="云南卫视高清" group-title="卫视频道",云南卫视高清
+
+http://192.168.100.1:4022/udp/239.0.0.74:5140
+
+#EXTINF:-1 tvg-id="陕西卫视高清" tvg-name="陕西卫视高清" group-title="卫视频道",陕西卫视高清
+
+http://192.168.100.1:4022/udp/2
