@@ -1,4 +1,4 @@
-# 🎬 成都/四川电信 移动 IPTV 直播源
+# 🎬 成都/四川 电信 移动 联通 IPTV 直播源
 
 ![badge](https://github.com/songshupine/iptv-cd-telecom/actions/workflows/cloudflare-pages.yml/badge.svg)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -11,7 +11,7 @@
 ## ✨ 核心特性
 
 - 🎬 **广泛兼容**：支持 tvbox、KODI、fileball、APTV、mytv-android 等主流播放器
-- 🔄 **回看时移**：支持节目回看和时移功能，不错过精彩内容
+- 🔄 **回看时移**：支持节目回看和时移功能，不错过精彩内容（仅电信）
 - 📡 **灵活接入**：提供官方单播源、组播转单播（udpxy/msd_lite/rtp2httpd）多种方式
 - 🎯 **4K 超清**：已解决部分 4K 频道播放问题，享受超高清画质
 - 📺 **完整节目单**：每天多次更新 EPG，覆盖央视、卫视超 100 套频道
@@ -34,7 +34,12 @@ https://iptv.gotonas.com/home/iptv.m3u8
 https://iptv.gotonas.com/home/apt_iptv.m3u8
 ```
 
-> 💡 **提示**：两个版本都支持时移功能，APTV 版针对时区兼容性进行了优化
+**联通 单播版：**
+```
+https://iptv.gotonas.com/home/cun_iptv.m3u8
+```
+
+> 💡 **提示**：两个版本电信都支持时移功能，APTV 版针对时区兼容性进行了优化
 
 ---
 
@@ -53,10 +58,15 @@ https://iptv.gotonas.com/udpxy/[ip:port]?[参数]
 ```
 https://iptv.gotonas.com/udpxy_cmcc/[ip:port]?[参数]
 ```
+#### 📌 联通地址格式
+
+```
+https://iptv.gotonas.com/udpxy_cun/[ip:port]?[参数]
+```
 
 #### 🎯 使用示例
 
-**示例 1 - 基础用法（举例为电信，移动请自行用udpxy_cmcc替换udpxy下面的举例类似）：**
+**示例 1 - 基础用法（举例为电信，移动、联通请自行用udpxy_cmcc或者udpxy_cun替换udpxy下面的举例类似）：**
 ```
 https://iptv.gotonas.com/udpxy/192.168.100.2:4022
 ```
