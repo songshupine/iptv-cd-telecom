@@ -20,21 +20,21 @@
 
 ## 📖 使用指南
 
-### 🚀 方式一：官方单播源（移动暂不支持）
+### 🚀 方式一：官方组播/单播源
 
 直接复制以下地址到播放器即可使用，无需额外配置：
 
-**电信标准版：**
+**电信组播标准版：**
 ```
 https://iptv.gotonas.com/home/iptv.m3u8
 ```
 
-**电信APTV 兼容版：**
+**电信组播APTV 兼容版：**
 ```
 https://iptv.gotonas.com/home/apt_iptv.m3u8
 ```
 
-**联通 单播版：**
+**联通单播版：**
 ```
 https://iptv.gotonas.com/home/cun_iptv.m3u8
 ```
@@ -43,7 +43,7 @@ https://iptv.gotonas.com/home/cun_iptv.m3u8
 
 ---
 
-### 🔧 方式二：组播转单播（高级用户）
+### 🔧 方式二：组播转单播（推荐）
 
 适用于已搭建 udpxy、msd_lite、rtp2httpd 等工具的用户。
 
@@ -66,7 +66,7 @@ https://iptv.gotonas.com/udpxy_cun/[ip:port]?[参数]
 
 #### 🎯 使用示例
 
-**示例 1 - 基础用法（举例为电信，移动、联通请自行用udpxy_cmcc或者udpxy_cun替换udpxy下面的举例类似）：**
+**示例 1 - 基础用法（举例为电信，移动、联通请自行用udpxy_cmcc或者udpxy_cun替换udpxy，后面的举例类似）：**
 ```
 https://iptv.gotonas.com/udpxy/192.168.100.2:4022
 ```
