@@ -6,6 +6,9 @@ on:
   push:
     branches: ["master"]
 
+  schedule:
+    - cron: '0 3 * * *'  # 每天 UTC 时间凌晨 3 点运行（即北京时间上午 11 点）
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
     
