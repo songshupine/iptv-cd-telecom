@@ -93,7 +93,8 @@ https://iptv.gotonas.com/udpxy/192.168.100.2:4022?fcc=182.139.234.40:8027&rtspPr
 
 > 📝 **说明**：
 > - 回看时间参数格式：`playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}`
-> - FCC 服务器地址列表：[查看更多](https://github.com/stackia/rtp2httpd/blob/main/docs/cn-fcc-collection.md)
+> - 电信FCC服务器：182.139.234.40:8027
+> - 移动FCC服务器：183.223.164.65:8027
 > - `rtspProxy` 支持 HTTP/HTTPS 协议，可指定 `rtspProxy=https://192.168.100.2:4022`
 
 ---
