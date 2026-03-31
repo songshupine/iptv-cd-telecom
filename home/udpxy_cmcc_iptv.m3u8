@@ -1,5 +1,5 @@
 #EXTM3U name="成都移动IPTV - 2026-03-06 12:08:25" x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
-#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" catchup="default" catchup-days="5" catchup-source="http://192.168.100.1:4022/http/zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-1/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV1
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" catchup="direct" catchup-days="5" catchup-source="http://192.168.100.1:4022/http/zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-1/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV1
 http://192.168.100.1:4022/udp/239.10.0.151:5140
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://iptv.gotonas.com/logo/CCTV1.png" group-title="CCTV",CCTV1
 http://192.168.100.1:4022/udp/239.11.0.65:5140
