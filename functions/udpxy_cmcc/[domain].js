@@ -48,15 +48,15 @@ export async function onRequest(context) {
         m3uText = lines.join("\n")
     }
 
-    let rtspProxy = url.searchParams.get("rtspProxy")
-    if (rtspProxy) {
-        if (!rtspProxy.startsWith("http")) {
-            rtspProxy = `http://${rtspProxy}`;
+    let httpProxy = url.searchParams.get("httpProxy")
+    if (httpProxy) {
+        if (!httpProxy.startsWith("http")) {
+            httpProxy = `http://${httpProxy}`;
         }
         let lines = m3uText.split("\n")
         lines.forEach(function(line,index){
-            if (line.indexOf("catchup-source=\"rtsp://") > 0) {
-                lines[index] = line.replaceAll("catchup-source=\"rtsp://", `catchup-source="${rtspProxy}/rtsp/`);
+            if (line.indexOf("catchup-source=\"http://") > 0) {
+                lines[index] = line.replaceAll("catchup-source=\"http://", `catchup-source="${httpProxy}/http/`);
                 if (r2h) {
                     lines[index] = line.replaceAll(/(playseek=[^"&]*)/g,
                         `$1&r2h-token=${r2h}`)
