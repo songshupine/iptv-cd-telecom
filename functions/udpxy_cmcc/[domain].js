@@ -9,7 +9,7 @@ export async function onRequest(context) {
     let m3uText = await response.text();
     let url = new URL(context.request.url)
     if (url.searchParams.get("aptv")) {
-        m3uText = m3uText.replaceAll("{utc:YmdHMS}/{utcend:YmdHMS}", "${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}")
+        m3uText = m3uText.replaceAll("{utc:YmdHMS}/{utcend:YmdHMS}", "{start|yyyyMMddHHmmss|Asia/Shanghai}/{end|yyyyMMddHHmmss|Asia/Shanghai}")
     }
 
     m3uText = m3uText.replaceAll("192.168.100.1:4022", context.params.domain)
