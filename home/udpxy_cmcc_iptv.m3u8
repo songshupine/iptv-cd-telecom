@@ -60,8 +60,6 @@ http://192.168.100.1:4022/udp/239.11.0.138:5140
 http://192.168.100.1:4022/udp/239.11.0.245:5140
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://iptv.gotonas.com/logo/CCTV4K.png" group-title="CCTV",CCTV4K
 http://192.168.100.1:4022/udp/239.11.0.61:5140
-#EXTINF:-1 tvg-name="CCTV16-4K" tvg-logo="https://iptv.gotonas.com/logo/CCTV164K.png" group-title="CCTV",CCTV16-4K
-http://192.168.100.1:4022/udp/239.10.0.187:5140
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="卫视",北京卫视4K
 http://192.168.100.1:4022/udp/239.10.0.91:5140
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="卫视",北京卫视4K
@@ -328,7 +326,3 @@ http://192.168.100.1:4022/udp/239.10.0.29:5140
 http://192.168.100.1:4022/udp/239.11.0.153:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://iptv.gotonas.com/logo/凤凰资讯.png" group-title="港澳",凤凰资讯
 http://192.168.100.1:4022/udp/239.11.0.154:5140
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://iptv.gotonas.com/logo/星空卫视.png" group-title="港澳",星空卫视
-http://192.168.100.1:4022/udp/239.11.0.156:5140
-#EXTINF:-1 tvg-name="Channel[V]" tvg-logo="https://iptv.gotonas.com/logo/ChannelV.png" group-title="港澳",Channel[V]
-http://192.168.100.1:4022/udp/239.11.0.155:5140
