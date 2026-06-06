@@ -118,7 +118,7 @@ def generateUdpxyM3U8(file):
     name = '成都电信IPTV - ' + datetime.now(china_tz).strftime("%Y-%m-%d %H:%M:%S")
     # title = f'#EXTM3U name="{name}"' + ' x-tvg-url="https://epg.erw.cc/all.xml.gz" url-tvg="http://epg.51zmt.top:8000/e.xml.gz"\n'
     # title = f'#EXTM3U name="{name}"' + ' x-tvg-url="https://epg.erw.cc/all.xml.gz"\n'
-    title = f'#EXTM3U name="{name}"' + ' x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"\n'
+    title = f'#EXTM3U name="{name}"' + ' x-tvg-url="https://epg.gotonas.com/t.xml.gz"\n'
     file.write(title)
     for group in orders:
         v = [iptv for iptv in iptvList if iptv["group"] == group]
