@@ -1,4 +1,4 @@
-#EXTM3U name="成都联通IPTV - 2026-02-16 13:42:05" x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
+#EXTM3U name="成都联通IPTV - 2026-02-16 13:42:05" x-tvg-url="https://epg.gotonas.com/t.xml.gz"
 #EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" group-title="央视频道",CCTV-1高清
 http://192.168.100.1:4022/udp/239.0.0.10:5140
 #EXTINF:-1 tvg-id="CCTV-2高清" tvg-name="CCTV-2高清" group-title="央视频道",CCTV-2高清
