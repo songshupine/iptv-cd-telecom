@@ -1,4 +1,4 @@
-#EXTM3U name="成都联通单播IPTV - 2026-02-17 12:18:48" x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
+#EXTM3U name="成都联通单播IPTV - 2026-02-17 12:18:48" x-tvg-url="https://epg.gotonas.com/t.xml.gz"
 #EXTINF:-1tvg-id="1"tvg-name="CCTV1",CCTV1
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227479/index.m3u8
 #EXTINF:-1tvg-id="2"tvg-name="CCTV2",CCTV2
