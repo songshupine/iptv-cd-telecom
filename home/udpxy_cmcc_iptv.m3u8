@@ -4,39 +4,39 @@
 http://192.168.100.1:4022/udp/239.10.0.151:5140
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://iptv.gotonas.com/logo/CCTV1.png" group-title="CCTV",CCTV1
 http://192.168.100.1:4022/udp/239.11.0.65:5140
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://iptv.gotonas.com/logo/CCTV2.png" group-title="CCTV",CCTV2
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV2.png" tvg-id="CCTV2" tvg-name="CCTV2" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-2/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV2
 http://192.168.100.1:4022/udp/239.11.0.108:5140
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://iptv.gotonas.com/logo/CCTV3.png" group-title="CCTV",CCTV3
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV3.png" tvg-id="CCTV3" tvg-name="CCTV3" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-3/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV3
 http://192.168.100.1:4022/udp/239.11.0.101:5140
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://iptv.gotonas.com/logo/CCTV4.png" group-title="CCTV",CCTV4
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV4.png" tvg-id="CCTV4" tvg-name="CCTV4" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-4/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV4
 http://192.168.100.1:4022/udp/239.11.0.109:5140
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://iptv.gotonas.com/logo/CCTV5.png" group-title="CCTV",CCTV5
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-5/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV5
 http://192.168.100.1:4022/udp/239.11.0.100:5140
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://iptv.gotonas.com/logo/CCTV5.png" group-title="CCTV",CCTV5+
 http://192.168.100.1:4022/udp/239.11.0.241:5140
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://iptv.gotonas.com/logo/CCTV6.png" group-title="CCTV",CCTV6
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV6.png" tvg-id="CCTV6" tvg-name="CCTV6" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-6/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV6
 http://192.168.100.1:4022/udp/239.11.0.102:5140
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://iptv.gotonas.com/logo/CCTV7.png" group-title="CCTV",CCTV7
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV7.png" tvg-id="CCTV7" tvg-name="CCTV7" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-7/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV7
 http://192.168.100.1:4022/udp/239.11.0.110:5140
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://iptv.gotonas.com/logo/CCTV8.png" group-title="CCTV",CCTV8
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV8.png" tvg-id="CCTV8" tvg-name="CCTV8" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-8/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV8
 http://192.168.100.1:4022/udp/239.11.0.103:5140
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://iptv.gotonas.com/logo/CCTV9.png" group-title="CCTV",CCTV9
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV9.png" tvg-id="CCTV9" tvg-name="CCTV9" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-9/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV9
 http://192.168.100.1:4022/udp/239.11.0.111:5140
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://iptv.gotonas.com/logo/CCTV10.png" group-title="CCTV",CCTV10
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV10.png" tvg-id="CCTV10" tvg-name="CCTV10" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-10/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV10
 http://192.168.100.1:4022/udp/239.11.0.112:5140
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://iptv.gotonas.com/logo/CCTV11.png" group-title="CCTV",CCTV11
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV11.png" tvg-id="CCTV11" tvg-name="CCTV11" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-11/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV11
 http://192.168.100.1:4022/udp/239.11.0.22:5140
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://iptv.gotonas.com/logo/CCTV12.png" group-title="CCTV",CCTV12
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV12.png" tvg-id="CCTV12" tvg-name="CCTV12" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-12/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV12
 http://192.168.100.1:4022/udp/239.11.0.113:5140
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://iptv.gotonas.com/logo/CCTV13.png" group-title="CCTV",CCTV13
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV13.png" tvg-id="CCTV13" tvg-name="CCTV13" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-13/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV13
 http://192.168.100.1:4022/udp/239.11.0.24:5140
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://iptv.gotonas.com/logo/CCTV14.png" group-title="CCTV",CCTV14
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV14.png" tvg-id="CCTV14" tvg-name="CCTV14" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-14/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV14
 http://192.168.100.1:4022/udp/239.11.0.114:5140
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://iptv.gotonas.com/logo/CCTV15.png" group-title="CCTV",CCTV15
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV15.png" tvg-id="CCTV15" tvg-name="CCTV15" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-15/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV15
 http://192.168.100.1:4022/udp/239.11.0.26:5140
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://iptv.gotonas.com/logo/CCTV16.png" group-title="CCTV",CCTV16
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV16.png" tvg-id="CCTV16" tvg-name="CCTV16" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-16/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV16
 http://192.168.100.1:4022/udp/239.11.0.67:5140
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://iptv.gotonas.com/logo/CCTV17.png" group-title="CCTV",CCTV17
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV17.png" tvg-id="CCTV17" tvg-name="CCTV17" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-17/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV17
 http://192.168.100.1:4022/udp/239.11.0.107:5140
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://iptv.gotonas.com/logo/CETV1.png" group-title="未分组",CETV1
 http://192.168.100.1:4022/udp/239.11.0.139:5140
@@ -58,7 +58,7 @@ http://192.168.100.1:4022/udp/239.11.0.82:5140
 http://192.168.100.1:4022/udp/239.11.0.138:5140
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://iptv.gotonas.com/logo/CGTN.png" group-title="未分组",CGTN英语
 http://192.168.100.1:4022/udp/239.11.0.245:5140
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://iptv.gotonas.com/logo/CCTV4K.png" group-title="CCTV",CCTV4K
+#EXTINF:-1 tvg-logo="https://iptv.gotonas.com/logo/CCTV4K.png" tvg-id="CCTV4K" tvg-name="CCTV4K" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/CCTV-4K/{utc:YmdHMS}/{utcend:YmdHMS}/1.m3u8" group-title="CCTV",CCTV4K
 http://192.168.100.1:4022/udp/239.11.0.61:5140
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://iptv.gotonas.com/logo/4K.png" group-title="卫视",北京卫视4K
 http://192.168.100.1:4022/udp/239.10.0.91:5140
