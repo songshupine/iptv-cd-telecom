@@ -8,6 +8,8 @@
 ---
 > 此项目基于iptv.zsdc.eu.org (https://github.com/suzukua/iptv-cd-telecom) 项目开发
 ---
+> **新项目**(https://tv.gotonas.com)挪到国内服务器，访问更快更稳定，欢迎试用
+---
 ## ✨ 核心特性
 
 - 🎬 **广泛兼容**：支持 tvbox、KODI、fileball、APTV、mytv-android 等主流播放器
