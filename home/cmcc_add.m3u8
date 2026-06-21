@@ -1,0 +1,84 @@
+#EXTINF:-1 tvg-name="达州新闻" tvg-logo="" group-title="四川",达州新闻
+http://192.168.100.1:4022/udp/239.10.0.54:5140
+#EXTINF:-1 tvg-name="达州文化生活" tvg-logo="" group-title="四川",达州文化生活
+http://192.168.100.1:4022/udp/239.10.0.55:5140
+#EXTINF:-1 tvg-name="泸州新闻" tvg-logo="" group-title="四川",泸州新闻
+http://192.168.100.1:4022/udp/239.10.0.46:5140
+#EXTINF:-1 tvg-name="泸州科教" tvg-logo="" group-title="四川",泸州科教
+http://192.168.100.1:4022/udp/239.10.0.48:5140
+#EXTINF:-1 tvg-name="阿坝汉语" tvg-logo="" group-title="四川",阿坝汉语
+http://192.168.100.1:4022/udp/239.10.0.50:5140
+#EXTINF:-1 tvg-name="阿坝藏语" tvg-logo="" group-title="四川",阿坝藏语
+http://192.168.100.1:4022/udp/239.10.0.51:5140
+#EXTINF:-1 tvg-name="巴中综合" tvg-logo="" group-title="四川",巴中综合
+http://192.168.100.1:4022/udp/239.10.0.52:5140
+#EXTINF:-1 tvg-name="巴中文旅" tvg-logo="" group-title="四川",巴中文旅
+http://192.168.100.1:4022/udp/239.10.0.53:5140
+#EXTINF:-1 tvg-name="德阳新闻综合" tvg-logo="" group-title="四川",德阳新闻综合
+http://192.168.100.1:4022/udp/239.10.0.56:5140
+#EXTINF:-1 tvg-name="德阳文旅科教" tvg-logo="" group-title="四川",德阳文旅科教
+http://192.168.100.1:4022/udp/239.10.0.57:5140
+#EXTINF:-1 tvg-name="广安新闻" tvg-logo="" group-title="四川",广安新闻
+http://192.168.100.1:4022/udp/239.10.0.58:5140
+#EXTINF:-1 tvg-name="广安公共" tvg-logo="" group-title="四川",广安公共
+http://192.168.100.1:4022/udp/239.10.0.59:5140
+#EXTINF:-1 tvg-name="广元综合" tvg-logo="" group-title="四川",广元综合
+http://192.168.100.1:4022/udp/239.10.0.60:5140
+#EXTINF:-1 tvg-name="广元文化" tvg-logo="" group-title="四川",广元文化
+http://192.168.100.1:4022/udp/239.10.0.61:5140
+#EXTINF:-1 tvg-name="乐山新闻" tvg-logo="" group-title="四川",乐山新闻
+http://192.168.100.1:4022/udp/239.10.0.62:5140
+#EXTINF:-1 tvg-name="乐山文旅" tvg-logo="" group-title="四川",乐山文旅
+http://192.168.100.1:4022/udp/239.10.0.63:5140
+#EXTINF:-1 tvg-name="凉山新闻综合" tvg-logo="" group-title="四川",凉山新闻综合
+http://192.168.100.1:4022/udp/239.10.0.64:5140
+#EXTINF:-1 tvg-name="凉山彝语综合" tvg-logo="" group-title="四川",凉山彝语综合
+http://192.168.100.1:4022/udp/239.10.0.65:5140
+#EXTINF:-1 tvg-name="眉山综合" tvg-logo="" group-title="四川",眉山综合
+http://192.168.100.1:4022/udp/239.10.0.66:5140
+#EXTINF:-1 tvg-name="眉山公共" tvg-logo="" group-title="四川",眉山公共
+http://192.168.100.1:4022/udp/239.10.0.67:5140
+#EXTINF:-1 tvg-name="南充综合" tvg-logo="" group-title="四川",南充综合
+http://192.168.100.1:4022/udp/239.10.0.68:5140
+#EXTINF:-1 tvg-name="南充科教" tvg-logo="" group-title="四川",南充科教
+http://192.168.100.1:4022/udp/239.10.0.70:5140
+#EXTINF:-1 tvg-name="内江综合" tvg-logo="" group-title="四川",内江综合
+http://192.168.100.1:4022/udp/239.10.0.71:5140
+#EXTINF:-1 tvg-name="内江科教" tvg-logo="" group-title="四川",内江科教
+http://192.168.100.1:4022/udp/239.10.0.73:5140
+#EXTINF:-1 tvg-name="攀枝花新闻" tvg-logo="" group-title="四川",攀枝花新闻
+http://192.168.100.1:4022/udp/239.10.0.74:5140
+#EXTINF:-1 tvg-name="攀枝花文旅" tvg-logo="" group-title="四川",攀枝花文旅
+http://192.168.100.1:4022/udp/239.10.0.75:5140
+#EXTINF:-1 tvg-name="遂宁综合" tvg-logo="" group-title="四川",遂宁综合
+http://192.168.100.1:4022/udp/239.10.0.76:5140
+#EXTINF:-1 tvg-name="遂宁文旅" tvg-logo="" group-title="四川",遂宁文旅
+http://192.168.100.1:4022/udp/239.10.0.77:5140
+#EXTINF:-1 tvg-name="雅安新闻" tvg-logo="" group-title="四川",雅安新闻
+http://192.168.100.1:4022/udp/239.10.0.78:5140
+#EXTINF:-1 tvg-name="雅安公共" tvg-logo="" group-title="四川",雅安公共
+http://192.168.100.1:4022/udp/239.10.0.79:5140
+#EXTINF:-1 tvg-name="宜宾新闻" tvg-logo="" group-title="四川",宜宾新闻
+http://192.168.100.1:4022/udp/239.10.0.80:5140
+#EXTINF:-1 tvg-name="宜宾公共" tvg-logo="" group-title="四川",宜宾公共
+http://192.168.100.1:4022/udp/239.10.0.81:5140
+#EXTINF:-1 tvg-name="资阳新闻" tvg-logo="" group-title="四川",资阳新闻
+http://192.168.100.1:4022/udp/239.10.0.82:5140
+#EXTINF:-1 tvg-name="自贡综合" tvg-logo="" group-title="四川",自贡综合
+http://192.168.100.1:4022/udp/239.10.0.83:5140
+#EXTINF:-1 tvg-name="自贡文化" tvg-logo="" group-title="四川",自贡文化
+http://192.168.100.1:4022/udp/239.10.0.84:5140
+#EXTINF:-1 tvg-name="绵阳新闻" tvg-logo="" group-title="四川",绵阳新闻
+http://192.168.100.1:4022/udp/239.10.0.96:5140
+#EXTINF:-1 tvg-name="绵阳科技" tvg-logo="" group-title="四川",绵阳科技
+http://192.168.100.1:4022/udp/239.10.0.98:5140
+#EXTINF:-1 tvg-name="康定综合" tvg-logo="" group-title="四川",康定综合
+http://192.168.100.1:4022/udp/239.10.0.30:5140
+#EXTINF:-1 tvg-name="甘孜综合" tvg-logo="" group-title="四川",甘孜综合
+http://192.168.100.1:4022/udp/239.10.0.32:5140
+#EXTINF:-1 tvg-name="稻城电视台" tvg-logo="" group-title="四川",稻城电视台
+http://192.168.100.1:4022/udp/239.10.0.29:5140
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://tv.gotonas.com/logo/凤凰中文.png" group-title="港澳",凤凰中文
+http://192.168.100.1:4022/udp/239.11.0.153:5140
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://tv.gotonas.com/logo/凤凰资讯.png" group-title="港澳",凤凰资讯
+http://192.168.100.1:4022/udp/239.11.0.154:5140
