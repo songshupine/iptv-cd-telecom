@@ -1,4 +1,4 @@
-#EXTM3U name="四川移动IPTV - 2026-06-25 14:04:13" x-tvg-url="https://epg.gotonas.com/t.xml.gz"
+#EXTM3U name="四川移动IPTV - 2026-06-26 14:08:05" x-tvg-url="https://epg.gotonas.com/t.xml.gz"
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV-1" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-1/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="CCTV",CCTV-1
 http://192.168.100.1:4022/udp/239.11.0.65:5140
@@ -93,8 +93,8 @@ http://192.168.100.1:4022/udp/239.11.0.77:5140
 #EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/KBWS.png" tvg-id="KBWS" tvg-name="康巴卫视" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/kamba-tv/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="卫视",康巴卫视
 http://192.168.100.1:4022/udp/239.11.0.10:5140
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-#EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/shishanggouwu.png" tvg-id="shishanggouwu" tvg-name="中视购物" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-2500k-576P-scshishanggw/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="其他",中视购物
-http://192.168.100.1:4022/udp/239.10.0.225:5140
+#EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/jiayougouwu.png" tvg-id="jiayougouwu" tvg-name="好享购物" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-2500k-576P-scjiayougw/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="其他",好享购物
+http://192.168.100.1:4022/udp/239.10.0.226:5140
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/yougouwu.png" tvg-id="yougouwu" tvg-name="优购物" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-2500k-576P-scyougw/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="其他",优购物
 http://192.168.100.1:4022/udp/239.10.0.227:5140
@@ -117,8 +117,8 @@ http://192.168.100.1:4022/udp/239.10.0.15:5140
 #EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/scchengdu.png" tvg-id="scchengdu" tvg-name="CDTV6" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-1500k-576P-scchengdu6/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="四川",CDTV6
 http://192.168.100.1:4022/udp/239.10.0.16:5140
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-#EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/jiayougouwu.png" tvg-id="jiayougouwu" tvg-name="好享购物" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-2500k-576P-scjiayougw/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="其他",好享购物
-http://192.168.100.1:4022/udp/239.10.0.226:5140
+#EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/shishanggouwu.png" tvg-id="shishanggouwu" tvg-name="中视购物" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-2500k-576P-scshishanggw/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="其他",中视购物
+http://192.168.100.1:4022/udp/239.10.0.225:5140
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/huanqiugouwu.png" tvg-id="huanqiugouwu" tvg-name="聚鲨环球精选" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-2500k-576P-scjushahuanqiu/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="其他",聚鲨环球精选
 http://192.168.100.1:4022/udp/239.10.0.228:5140
