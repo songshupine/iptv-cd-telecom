@@ -1,4 +1,4 @@
-#EXTM3U name="四川移动IPTV - 2026-07-06 14:25:40" x-tvg-url="https://epg.gotonas.com/t.xml.gz"
+#EXTM3U name="四川移动IPTV - 2026-07-07 14:05:17" x-tvg-url="https://epg.gotonas.com/t.xml.gz"
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV-1" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-1/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="CCTV",CCTV-1
 http://192.168.100.1:4022/udp/239.11.0.65:5140
@@ -272,9 +272,6 @@ http://192.168.100.1:4022/udp/239.11.0.125:5140
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/CCTV-16.png" tvg-id="CCTV-16" tvg-name="CCTV-16" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-16-4k/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="CCTV",CCTV-16
 http://192.168.100.1:4022/udp/239.11.0.67:5140
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/中国交通.png" tvg-id="中国交通" tvg-name="中国交通" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-576P-zhongguojt/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="其他",中国交通
-http://192.168.100.1:4022/udp/239.10.0.143:5140
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/CGTN西班牙语.png" tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/CGTNxbyy/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="其他",CGTN西班牙语
 http://192.168.100.1:4022/udp/239.11.0.79:5140
