@@ -1,4 +1,4 @@
-#EXTM3U name="四川移动IPTV - 2026-11-12 17:14:47" x-tvg-url="https://epg.gotonas.com/t.xml.gz"
+#EXTM3U name="四川移动IPTV - 2026-11-13 17:02:58" x-tvg-url="https://epg.gotonas.com/t.xml.gz"
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV-1" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-1/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="CCTV",CCTV-1
 http://192.168.100.1:4022/udp/239.11.0.65:5140
@@ -69,7 +69,7 @@ http://192.168.100.1:4022/udp/239.11.0.119:5140
 #EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/SCWHZL.png" tvg-id="SCWHZL" tvg-name="四川经济" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/sctv-2/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="四川",四川经济
 http://192.168.100.1:4022/udp/239.11.0.2:5140
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-#EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/SCJJ.png" tvg-id="SCJJ" tvg-name="四川文化旅游" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/sctv-3/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="四川",四川文化旅游
+#EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/SCJJ.png" tvg-id="SCJJ" tvg-name="四川文旅体育" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/sctv-3/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="四川",四川文旅体育
 http://192.168.100.1:4022/udp/239.11.0.3:5140
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTINF:-1 tvg-logo="https://tv.gotonas.com/logo/SCGG.png" tvg-id="SCGG" tvg-name="四川乡村" catchup="default" catchup-days="5" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/sctv-9/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8" group-title="四川",四川乡村
